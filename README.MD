@@ -1,6 +1,6 @@
 # Getting Started
 
-##  Start the Metro Server
+##  Start the Server
 
 ```bash
 # using npm
